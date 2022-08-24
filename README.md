@@ -1,7 +1,7 @@
-                👋 Helllooo
+ 👋 Helllooo
 - 
-               I’m Peter Shen 
-           GitHub ID: @pumpkinPeters
+ I’m Peter Shen 
+ GitHub ID: @pumpkinPeters
 -
 - 👀 I’m making a career change to IT from Mechanical Engineering
 - 🌱 I’m currently learning & building skills to be a FrontEnd Dev (HTML, CSS, Javascript & React)
