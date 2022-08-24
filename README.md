@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pumpkinPeters ---- Peter
+- 👋 Hi, I’m @pumpkinPeters ---- Peter Shen
 - 👀 I’m making a career change to IT from Mechanical Engineering
 - 🌱 I’m currently learning & building skills to be a FrontEnd Dev (HTML, CSS, Javascript & React)
     
